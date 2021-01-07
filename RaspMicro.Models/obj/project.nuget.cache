@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3InsQawZ7OrGuVsQN3Frbqq3gpxsSlk7RXcm0AutQyVLSdfSd4wuI4AmcypxnVdE7Q8ZIIw/EXYkVaEvb/HAiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yannick\\source\\repos\\RaspMicroscope\\RaspMicro.Models\\RaspMicro.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yannick\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

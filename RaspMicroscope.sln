@@ -3,11 +3,42 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaspMicro.UI.WPF", "RaspMicro.UI.WPF\RaspMicro.UI.WPF.csproj", "{5310C041-967B-445B-993D-AAE1D3B5A7AC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{25324D1C-4B21-4480-8149-99B1869515DB} = {25324D1C-4B21-4480-8149-99B1869515DB}
+		{00350A85-2D1E-4D4D-9A7D-07E1453143FA} = {00350A85-2D1E-4D4D-9A7D-07E1453143FA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaspMicro.Models", "RaspMicro.Models\RaspMicro.Models.csproj", "{00350A85-2D1E-4D4D-9A7D-07E1453143FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaspMicro.Services", "RaspMicro.Services\RaspMicro.Services.csproj", "{25324D1C-4B21-4480-8149-99B1869515DB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{00350A85-2D1E-4D4D-9A7D-07E1453143FA} = {00350A85-2D1E-4D4D-9A7D-07E1453143FA}
+	EndProjectSection
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5310C041-967B-445B-993D-AAE1D3B5A7AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5310C041-967B-445B-993D-AAE1D3B5A7AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5310C041-967B-445B-993D-AAE1D3B5A7AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5310C041-967B-445B-993D-AAE1D3B5A7AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00350A85-2D1E-4D4D-9A7D-07E1453143FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00350A85-2D1E-4D4D-9A7D-07E1453143FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00350A85-2D1E-4D4D-9A7D-07E1453143FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00350A85-2D1E-4D4D-9A7D-07E1453143FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25324D1C-4B21-4480-8149-99B1869515DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25324D1C-4B21-4480-8149-99B1869515DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25324D1C-4B21-4480-8149-99B1869515DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25324D1C-4B21-4480-8149-99B1869515DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AB77298B-7EF1-4A8F-8A97-642E86E00484}
+		SolutionGuid = {017208E4-3905-4C5C-ADD8-BE112CC11042}
 	EndGlobalSection
 EndGlobal

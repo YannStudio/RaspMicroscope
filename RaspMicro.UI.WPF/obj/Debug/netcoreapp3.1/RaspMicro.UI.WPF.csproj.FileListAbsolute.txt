@@ -1,0 +1,6 @@
+C:\Users\Yannick\source\repos\RaspMicroscope\RaspMicro.UI.WPF\obj\Debug\netcoreapp3.1\RaspMicro.UI.WPF.csprojAssemblyReference.cache
+C:\Users\Yannick\source\repos\RaspMicroscope\RaspMicro.UI.WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Yannick\source\repos\RaspMicroscope\RaspMicro.UI.WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Yannick\source\repos\RaspMicroscope\RaspMicro.UI.WPF\obj\Debug\netcoreapp3.1\RaspMicro.UI.WPF_MarkupCompile.cache
+C:\Users\Yannick\source\repos\RaspMicroscope\RaspMicro.UI.WPF\obj\Debug\netcoreapp3.1\RaspMicro.UI.WPF_MarkupCompile.lref
+C:\Users\Yannick\source\repos\RaspMicroscope\RaspMicro.UI.WPF\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs

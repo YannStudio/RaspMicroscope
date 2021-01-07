@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "P9LblO4WRuVLsUQUQnUkt5WZD/Y449gh9GqnkbCVpOFHpLJeCx0WZkZg/qTUzj2Kvq7Dpgcs5ESQBpQqgfJyEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yannick\\source\\repos\\RaspMicroscope\\RaspMicro.Services\\RaspMicro.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yannick\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\mmalsharp\\0.6.0\\mmalsharp.0.6.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\mmalsharp.common\\0.6.0\\mmalsharp.common.0.6.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\mmalsharp.processing\\0.6.0\\mmalsharp.processing.0.6.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\system.device.gpio\\1.3.0\\system.device.gpio.1.3.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Yannick\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

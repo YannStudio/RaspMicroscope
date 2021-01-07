@@ -1,0 +1,5 @@
+C:\Users\Yannick\source\repos\RaspMicroscope\RaspMicro.Services\bin\Debug\netcoreapp3.1\RaspMicro.Services.deps.json
+C:\Users\Yannick\source\repos\RaspMicroscope\RaspMicro.Services\bin\Debug\netcoreapp3.1\RaspMicro.Services.dll
+C:\Users\Yannick\source\repos\RaspMicroscope\RaspMicro.Services\obj\Debug\netcoreapp3.1\RaspMicro.Services.AssemblyInfoInputs.cache
+C:\Users\Yannick\source\repos\RaspMicroscope\RaspMicro.Services\obj\Debug\netcoreapp3.1\RaspMicro.Services.AssemblyInfo.cs
+C:\Users\Yannick\source\repos\RaspMicroscope\RaspMicro.Services\obj\Debug\netcoreapp3.1\RaspMicro.Services.csprojAssemblyReference.cache
